@@ -53,7 +53,7 @@ body {
 }
 .small-nav .links ul li {
   display: inline-block;
-  margin: 7px 5px;
+  margin: 7px 4px;
 }
 .small-nav .links ul li a {
   text-decoration: none;
@@ -384,6 +384,9 @@ body {
 /* blog section  */
 .blog {
   background-color: #f2f5fa;
+}
+.blog .post {
+  margin-bottom: 10px !important;
 }
 .blog h3 {
   margin-top: 50px;
